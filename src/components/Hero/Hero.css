@@ -1,0 +1,55 @@
+.hero-box{
+    margin-top: 138px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hero-info h1{
+    width: 540px;
+font-size: 64px;
+font-weight: 700;
+line-height: 96px;
+letter-spacing: 0px;
+text-align: left;
+color: #fff;;
+}
+
+.hero-info p{
+ width: 540px;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+color: #fff;
+opacity: 0.8;
+margin-top: 10px;
+}
+
+.hero-info button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+border-radius: 2px;
+background: rgba(6, 51, 27, 1);
+padding: 20px 45px;
+border: none;
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: center;
+color: #fff;
+cursor: pointer;
+margin-top: 60px;
+margin-bottom: 150px;
+}
+.hero-info button:hover{
+    background-color: rgba(28, 55, 41, 0.781) ;
+    border-radius: 8px;
+}
+
+.hero-info .play-button{
+    font-size: 30px;
+}

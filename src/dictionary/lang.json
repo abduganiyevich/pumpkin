@@ -1,0 +1,33 @@
+{
+    "en":{
+        "translation":{
+            "Home":"Home",
+            "About":"About Us",
+            "HowIt":"How It Works",
+            "Contact":"Contact",
+            "title":"Ghost in the Shell",
+            "watch":"Watch Now"
+
+        }
+    },
+    "ru":{
+        "translation":{
+            "Home":"Дом",
+            "About":"О нас",
+            "HowIt":"Как это работает",
+            "Contact":"Контакт",
+            "title":"Призрак в доспехах",
+            "watch":"Смотри"
+        }
+    },
+    "uz":{
+        "translation":{
+            "Home":"Asosiy",
+            "About":"Biz haqimizda",
+            "HowIt":"U qanday ishlaydi",
+            "Contact":"Aloqa",
+            "title":"Shelldagi Sharpa",
+            "watch":"Hoziroq tomosha qil"
+        }
+    }
+}

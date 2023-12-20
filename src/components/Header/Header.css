@@ -1,0 +1,72 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+.header-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+.header-logo h4{
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0px;
+text-align: left;
+color: #fff;
+cursor: pointer;
+}
+
+.header-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+}
+
+.header-nav ul{
+    list-style: none;
+}
+
+.header-nav ul li a{
+    text-decoration: none;
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: right;
+color: #fff;
+transition: all 0.4s ease-out;
+
+}
+.header-nav a:hover{
+    font-size: 16px;
+}
+.login a{
+    text-decoration: none;
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: right;
+color: #fff;
+border: 1px solid white;
+padding: 8px 25px;
+transition: all 0.4s ease-out;
+}
+
+.login a:hover{
+    background-color: #fff;
+    color: green;
+}
+
+.header-group{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
